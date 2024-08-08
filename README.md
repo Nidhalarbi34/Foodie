@@ -4,7 +4,9 @@ A fully functional restaurant website using MongoDB, Express.js, React.js, and N
 
 Key features of the project include:
 ✅ Integrated Frontend and Backend: Seamlessly connecting React.js with Node.js to ensure a smooth user interface and efficient data flow.
+
 ✅ Secure Authentication with Firebase: Implemented Firebase authentication to safeguard user information and manage access securely.
+
 ✅ JWT Token Management: Leveraged JWT tokens to maintain user sessions and grant appropriate access based on roles.
 ✅ Robust Admin Panel: Developed a dedicated admin panel for effortless management of restaurant operations, from menu updates to order tracking and reporting.
 ✅ Payment Gateway Integration: Integrated a secure payment gateway, offering customers convenient and safe online ordering options.
