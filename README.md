@@ -21,5 +21,5 @@ Key features of the project include:
 ✅ User-Friendly Ordering System: Built an intuitive online food ordering system allowing customers to browse menus, add items to cart, and place orders effortlessly.
 
 
+![Capture d’écran_8-8-2024_13479_localhost](https://github.com/user-attachments/assets/d3cef58f-0eae-4751-9daa-603d6e073938)
 
-![Uploading Capture d’écran_8-8-2024_13479_localhost.jpeg…]()
